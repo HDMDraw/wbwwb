@@ -922,5 +922,108 @@ var textStrings_JP = {
     "misatrributed"      : "(misattributed)" ,
 };
 
+var textStrings_FR = {
+    // Act 1
+    "niceHat"              : "OOH JOLI CHAPEAU!"                                          ,
+    "outtaHere"            : "yeah git on outta here"                                ,
+    "getARoom"             : "DÉGUEU, TROUVEZ-VOUS UNE CHAMBRE!"                                  ,
+    "notCoolAnymore"       : "Oubliez ça, les chapeaux ne sont plus cool..."                          ,
+    "tvOnTv"               : "UNE TÉLÉ... DANS UNE TÉLÉ!"                                        ,
+    "cricky"               : "P'TIT CRICKET <3"                                        ,
+    "tooManyCrickets"      : "Okay, c'est trop de crickets..."                         ,
+    "normalPeep"           : "juste un gars normal"                                    ,
+    "normalPeeps"          : "juste des gens normaux"                                ,
+    "wowNothing"           : "WAAAAAOUUUH, C'EST RIEN"                                  ,
+    
+    // Act 2
+    "crazySquareAttacks"   : "UN CARRÉ FOU ATTAQUE"                                 ,
+    "justMissed"           : "oooooh tu viens de le rater..."                                 ,
+    "somethingInteresting" : "(tu dois les avoir faisant *quelque chose* d'intéressant)" ,
+    "whoIsScreaming"       : "(tu dois avoir qui leur cri dessus)"               ,
+    "circleFearsSquares"   : "UN CERCLE A PEUR DES CARRÉ"                                  ,
+    "whoScaresThem"        : "(tu dois aussi avoir *qui* les effrait)"         ,
+    "areTheyScared"        : "(tu dois les avoir *en train* d'être effrayé par un carré)"       , // not used
+    "squaresSnubCircles"   : "LES CARRÉS SNOBE LES CERCLES"                                  ,
+    "areTheySnubbed"       : "(tu dois les avoirs *pendant* qu'ils snobent un cercle)"        , // not used
+    "everyoneHates"        : "TOUT LE MONDE SE DÉTESTE!!1!"                           ,
+    "almostEveryoneHates"  : "PRESQUE TOUT LE MONDE SE DÉTESTE..."                     ,
+    "squaresHateCircles"   : "LES CARRÉS DÉTESTENT LES CERCLES"                                  ,
+    "circlesHateSquares"   : "LES CERCLES DÉTESTENT LES CARRÉS"                                  ,
+    "areTheyYelling"       : "(tu dois les avoir *en train de crier* sur les autres)"              , // not used
+    "nerdsNow"             : "Qu'est-ce que ces nerds font maintenant?"                        ,
+    "schockedPeep"         : "Pourquoi ce mec est choqué?"                              ,
+    "whatever"             : "peu importe"                                              ,
+    
+    // Act 3
+    "ellipsis"             : ". . ."                                                 ,
+    "coolNoMore"           : "les chapeaux ça n'est plus cool, t'as pas entendu?"           ,
+    "beScared"             : "SOIS ÉFFRAYÉ(E). SOIS COLÉRIQUE."                                  ,
+    
+    // MANIFESTO
+    "manifesto" : [
+       //"as if you viewers want GOOD news"       ,
+       "Qui veut voir des gens qui *s'entendent bien*?",
+       "La paix c'est ennuyeux. Les conflits, c'est viral."    ,
+       //"peace is boring. conflict gets clicks." ,
+       "et chaque histoire a besoin d'un conflit donc..."  ,
+       //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
+       "DONNEZ AU PUBLIC CE QU!ILS VEULENT!"
+    ] ,
+    
+    // -- Strings currently in graphics resources --
+    
+    // (bg_preload.png) Preload screen
+    "playingTime"        : "temps de jeu: 5 minutes" ,
+    "warning"            : "attention: le programme suivant\ncontien des scenes de snobisme,\nde grossièreté et de meurtre de masse.\nla discrétion du spectateur est conseillée." ,
+    
+    // (cam-instructions.png) Camera Instructions
+    "pointAndClick"      : "POINTE & CLIQUE" ,
+    
+    // (chyron3.png)
+    "chyronNothing"      : "WAAAAAOUUH, C'EST *RIEN*" ,
+    
+    // (credits0001.png)
+    "createdBy"          : "créé par" ,
+    "NickyCase"          : "Nicky Case" ,
+    
+    // (credits0002.png)
+    "manyThanks"         : "milles mercis à mes testeurs:" ,
+    
+    // (credits000[3,4,5,6].png)
+    "patreonSupporters"  : "et à mes supporters Patreon:" ,
+    
+    // (credits0007.png)
+    "lastButNotLeast"    : "et le dernier mais non le moindre," ,
+    
+    // (credits0008.png)
+    "thankYouForPlaying" : "merci à TOI d'avoir joué!" ,
+    
+    // (preload_play.png)
+    "playButton"         : "PLAY" ,
+    
+    // (end_button.png) Post Credits
+    "otherWorkButton"    : "regardes mes autres travaux" ,
+    "buyCoffeeButton"    : "achètes moi un café" ,
+    "replayButton"       : "rejoues ce message" ,
+    
+    // (logo.png) Post Credits
+    "logoWBWWB"          : "PARTAGE LA DOULEUR:" ,
+    
+    // (end_prototype.png)
+    "endOfPrototype"     : "FIN DU PROTOTYPE" ,
+    "toBeContinued"      : "(à suivre!)" ,
+    
+    // (quote0002.png)
+    "WBWWB"              : "Nous devenons ce que nous regardons." ,
+    "WSOTATOTSU"         : "Nous façonnons nos outils et nos outils nous façonnent." ,
+    
+    // (quote0003.png)
+    "MarshallMcLuhan"    : "Marshall McLuhan" ,
+    
+    // (quote0004.png)
+    "misatrributed"      : "(attribué par erreur)" ,
+};
+
+
 var textStrings = textStrings_EN
 var language = "EN"
